@@ -1,0 +1,15 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "A bot for trading cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachit Sonthalia",
+  "license": "MIT",
+  "dependencies": {
+    "cctx": "^1.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
